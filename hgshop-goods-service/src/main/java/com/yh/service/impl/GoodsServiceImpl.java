@@ -2,7 +2,6 @@ package com.yh.service.impl;
 
 import java.util.List;
 
-
 import com.yh.pojo.Brand;
 import com.yh.pojo.Category;
 import com.yh.service.GoodsService;
